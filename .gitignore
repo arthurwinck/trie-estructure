@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# other stuff
+dic1.dic
+dic2.dic
+dic3.dic
+exemplo.cpp
+tire
+tire.cpp
+vlp_meu.cpp
+vpl.cpp
+
+
 # Distribution / packaging
 .Python
 build/
